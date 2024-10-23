@@ -4,83 +4,71 @@
             "id":1,
             "title":"Game Development",
             "slug": "game-development",
-        "description": "lorem ipsum jijo",
+        "description": "Level up your game development skills with advanced techniques and build immersive experiences from concept to completion.",
         "price": 99.99,
         "instructor": "mali",
         "isFeatured": true,
-        "image":"h"
+        "image":"/game.jpeg"
 
         },
 
         {
-            "id":1,
-            "title":"Game Development",
-            "slug": "game-development",
-        "description": "lorem ipsum jijo",
-        "price": 99.99,
-        "instructor": "mali",
-        "isFeatured": true,
-        "image":"h"
-
-        },
-
-        {
-            "id":1,
-            "title":"Game Development",
-            "slug": "game-development",
-        "description": "lorem ipsum jijo",
-        "price": 99.99,
+            "id": 2,
+            "title": "Frontend Development for Beginners",
+            "slug": "frontend-for-beginners",
+            "description": "Level up your frontend development skills with advanced techniques and build immersive experiences from concept to completion.",
+            "price": 119.99,
         "instructor": "mali",
         "isFeatured":true,
-        "image":"h"
+        "image":"/frontend.jpeg"
+
+        },
+    
+        {
+            "id": 3,
+            "title": "Backend Development",
+            "slug": "backend-development",
+            "description": "Level up your backend development skills with advanced techniques and build immersive experiences from concept to completion.",
+            "price": 99.99, 
+        "instructor": "mali",
+        "isFeatured": true,
+        "image":"/backend.jpeg"
 
         },
 
         {
-            "id":1,
-            "title":"Game Development",
-            "slug": "game-development",
-        "description": "lorem ipsum jijo",
+            "id": 4,
+            "title": "Mastering Mobile Mastery",
+            "slug": "app-development",
+            "description": "Elevate your app development skills with advanced techniques tailored for intermediate to advanced developers.",
         "price": 99.99,
         "instructor": "mali",
         "isFeatured": true,
-        "image":"h"
-
+        "image":"/mobile.jpeg"
         },
 
         {
-            "id":1,
-            "title":"Game Development",
-            "slug": "game-development",
-        "description": "lorem ipsum jijo",
-        "price": 99.99,
-        "instructor": "mali",
-        "isFeatured":true,
-        "image":"h"
-
-        },
-
-        {
-            "id":1,
-            "title":"Game Development",
-            "slug": "game-development",
-        "description": "lorem ipsum jijo",
+           "id": 5,
+            "title": "Web Wizards",
+            "slug": "web-development",
+            "description": "Enhance your web development skills with advanced techniques for intermediate to advanced developers.",
         "price": 99.99,
         "instructor": "mali",
         "isFeatured": true,
-        "image":"h"
+        "image":"/web.jpeg"
 
         },
 
         {
-            "id":1,
-            "title":"Game Development",
-            "slug": "game-development",
-        "description": "lorem ipsum jijo",
+            "id": 6,
+            "title": "Mastering Next.js",
+            "slug": "mastering-next-js",
+            "description": "Level up your Next.js expertise with cutting-edge techniques designed for intermediate to advanced developers.",
         "price": 99.99,
         "instructor": "mali",
-        "isFeatured": false,
-        "image":"h"
+        "isFeatured": true,
+        "image":"/next.jpeg"
+
         }
     ]
 }
